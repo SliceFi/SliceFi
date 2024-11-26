@@ -7,7 +7,7 @@
 This is my meme coin project. You can contribute or fund the project by donating to the following wallet address.
 
 **Solana Wallet Address:**
-JB7HkF2nBCgkUjLEu3F1nw82s5q1Pz2Uy7ciZQSPjsLe
+Fu6xYpompamNPE1QCk8Z7Cz4qVXyXerBsvsvj2mNSUAa
 
 Thank you for your support!
 
