@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: marcalexandru04@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Your token's mint address: CrAVqkwfEUtoT3hAkw39zqAM4PkaBPFFg2AVZGuyEzdB
+Associated token account address: 9awpvhmThGm8sm7x19jfd6wUZdPqmtknyQYTmCwRoooF
+Balance: 1,000,000,000 tokens
+The token has 9 decimals.
 -->
