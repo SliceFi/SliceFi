@@ -6,7 +6,7 @@ Welcome to the **SliceFi** project! 🍕 This is my meme coin project dedicated 
 
 - **Token Name**: SliceFi
 - **Symbol**: SlFi
-- **Mint Address**: CrAVqkwfEUtoT3hAkw39zqAM4PkaBPFFg2AVZGuyEzdB
+- **Mint Address**: 43kpszYidSEsSDhmHUB5R9YpBdvxifWoK4MhmVfwqYWK
 - **Description**: A meme token celebrating pizza culture, with a mission to establish a sustainable pizza school and educate future generations on preserving pizza authenticity.
 - **Logo**: ![SliceFi Logo](https://i.imgur.com/yuf8Qg3.png)
 
